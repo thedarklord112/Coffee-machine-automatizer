@@ -1,0 +1,13 @@
+{
+  "name": "smart-coffee-maker",
+  "version": "1.0.0",
+  "description": "Automação residencial para máquinas de café usando Node.js e Arduino.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "johnny-five": "^2.1.0"
+  }
+}
